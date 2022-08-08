@@ -1,5 +1,6 @@
 secrets.tf
+*.swp
 .terraform*
 terraform.tfstate*
-service_monitor.zip
+report_getter.zip
 __pycache__
